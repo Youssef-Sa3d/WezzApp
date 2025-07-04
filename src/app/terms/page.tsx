@@ -21,7 +21,7 @@ export default function TermsPage() {
           
           <section>
             <h2 className="text-xl font-semibold mb-3 text-[#128c7e]">Platform Terms Notice</h2>
-            <p className="mb-4 text-gray-700 leading-relaxed">WezzApp uses the unofficial <code className="bg-gray-100 px-2 py-1 rounded text-sm">whatsapp-web.js</code> library to automate WhatsApp Web. This is <b>not supported by Meta Platforms, Inc.</b> and may violate WhatsApp's <a href="https://www.whatsapp.com/legal/terms-of-service" target="_blank" rel="noopener noreferrer" className="underline text-[#25d366] hover:text-[#128c7e]">Terms of Service</a>.</p>
+            <p className="mb-4 text-gray-700 leading-relaxed">WezzApp uses the unofficial <code className="bg-gray-100 px-2 py-1 rounded text-sm">whatsapp-web.js</code> library to automate WhatsApp Web. This is <b>not supported by Meta Platforms, Inc.</b> and may violate WhatsApp&apos;s <a href="https://www.whatsapp.com/legal/terms-of-service" target="_blank" rel="noopener noreferrer" className="underline text-[#25d366] hover:text-[#128c7e]">Terms of Service</a>.</p>
             <p className="mb-4 text-gray-700 leading-relaxed">You are solely responsible for ensuring you are allowed to use such tools in your country and for using the platform in a legal, ethical, and respectful manner.</p>
           </section>
         </div>

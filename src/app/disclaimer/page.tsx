@@ -6,7 +6,7 @@ export default function DisclaimerPage() {
     <div className="max-w-2xl mx-auto py-12 px-4 pt-24">
       <div className="whatsapp-card rounded-2xl p-8">
         <h1 className="text-3xl font-bold mb-6 text-[#25d366]">Legal Disclaimer</h1>
-        <p className="mb-6 text-gray-700 leading-relaxed">This project ("WezzApp") is developed for educational, experimental, and entertainment purposes. WezzApp allows users to create an account and send anonymous messages to WhatsApp numbers.</p>
+        <p className="mb-6 text-gray-700 leading-relaxed">This project (&quot;WezzApp&quot;) is developed for educational, experimental, and entertainment purposes. WezzApp allows users to create an account and send anonymous messages to WhatsApp numbers.</p>
         
         <div className="space-y-6">
           <section>
@@ -22,7 +22,7 @@ export default function DisclaimerPage() {
           
           <section>
             <h2 className="text-xl font-semibold mb-3 text-[#128c7e]">Platform Terms Notice</h2>
-            <p className="mb-4 text-gray-700 leading-relaxed">WezzApp uses the unofficial <code className="bg-gray-100 px-2 py-1 rounded text-sm">whatsapp-web.js</code> library to automate interactions with WhatsApp Web. This is <b>not supported by Meta Platforms, Inc.</b> and may violate WhatsApp's <a href="https://www.whatsapp.com/legal/terms-of-service" target="_blank" rel="noopener noreferrer" className="underline text-[#25d366] hover:text-[#128c7e]">Terms of Service</a>.</p>
+            <p className="mb-4 text-gray-700 leading-relaxed">WezzApp uses the unofficial <code className="bg-gray-100 px-2 py-1 rounded text-sm">whatsapp-web.js</code> library to automate interactions with WhatsApp Web. This is <b>not supported by Meta Platforms, Inc.</b> and may violate WhatsApp&apos;s <a href="https://www.whatsapp.com/legal/terms-of-service" target="_blank" rel="noopener noreferrer" className="underline text-[#25d366] hover:text-[#128c7e]">Terms of Service</a>.</p>
             <ul className="list-disc pl-6 mb-4 text-gray-700 space-y-2">
               <li>Ensuring you are allowed to use such tools in your country</li>
               <li>Using the platform in a legal, ethical, and respectful manner</li>
