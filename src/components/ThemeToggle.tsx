@@ -4,7 +4,6 @@ import { useState, useEffect } from "react";
 export default function ThemeToggle() {
   const [theme, setTheme] = useState<"light" | "dark">("light");
   const [mounted, setMounted] = useState(false);
-
   useEffect(() => {
     setMounted(true);
     // Get theme from localStorage or default to light
