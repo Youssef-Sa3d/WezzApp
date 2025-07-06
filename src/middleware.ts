@@ -4,7 +4,5 @@ import { clerkMiddleware } from "@clerk/nextjs/server";
 export default clerkMiddleware();
 
 export const config = {
-    matcher: [
-        "/((?!_next|.*\\..*).*)", // matches all routes except static files
-    ],
+    matcher: ["/dashboard(.*)"], // Protect all routes under /dashboard
 };
